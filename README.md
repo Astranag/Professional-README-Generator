@@ -22,8 +22,9 @@ I have generated a command-line application that dynamically generates a profess
 
 ## 💻 USAGE
 
+[Visit the generated README here](starter/READMEGen/README.md)
 
-
+![ demo](starter/Screenshot/github.com_Astranag_Professional-README-Generator_tree_main_starter_READMEGen.png)
 
 ### 💬 User story
 
