@@ -22,11 +22,8 @@ I have generated a command-line application that dynamically generates a profess
 
 ## 💻 USAGE
 
-The application will be invoked by using the following command:
 
-```bash
-node index.js
-```
+
 
 ### 💬 User story
 
@@ -59,6 +56,12 @@ node index.js
 ## Getting Started
 
 Here are some guidelines to help you get started:
+
+The application will be invoked by using the following command:
+
+```bash
+node index.js
+```
 
 * Create a `.gitignore` file and include `node_modules/` and `.DS_Store/` so that your `node_modules` directory isn't tracked or uploaded to GitHub. Be sure to create your `.gitignore` file before installing any npm dependencies.
 
